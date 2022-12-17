@@ -1,0 +1,1 @@
+/Users/muhammadutsman/IdeaProjects/binar-project-kotlin/build/classes/kotlin/main/BaruKt.class:/Users/muhammadutsman/IdeaProjects/binar-project-kotlin/build/classes/kotlin/main/MainKt.class
